@@ -1,2 +1,2 @@
 # TetiNote
- Tugas Todo List NL Android Developer Community
+ Tugas Todo List NL Android Developer Community berbasis Flutter
